@@ -2,5 +2,5 @@ This model is made on Random Forest Regression model. The data has columns like 
 The data set has no missing values, however outlies were present.Divided  the data in trainig set and testing set.The model gives me around 77 and 78 percent accuracy.
 
 Tools/Technologies:
-Anaconda(Jupyer)
+Anaconda(Jupyter)
 Python: Flask,Numpy,Pandas,Matplotlib,Seaborn, scikit-learn
